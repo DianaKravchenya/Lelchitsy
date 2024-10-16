@@ -1,0 +1,253 @@
+*{
+    font-family: "Ysabeau Infant", serif;
+    color:black;
+    font-size: 18px;
+    font-weight: 500;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+.intro {
+    background-image: url("block1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 196px 0 446px 0;
+}
+
+.intro h1 {
+    font-weight: 800;
+    font-size: 96px;
+    color: white;
+    padding-left: 300px;
+    width: 70%;
+    margin-bottom: 36px;
+    letter-spacing: 0.18em;
+}
+
+.intro button {
+    background-image: url("Group 5.png");
+    background-color: transparent;
+    outline: none;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    padding: 14px 66px 14px 18px;
+    font-size: 28px;
+    font-weight: 500;
+    color: white;
+}
+
+.history {
+    padding-top: 110px;
+}
+
+.history h2 {
+    font-size: 36px;
+    margin-bottom: 38px;
+}
+
+.history img {
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ht1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 534px;
+    height: 144px;
+    margin-right: 173px;
+}
+
+.ht2 {
+    display: inline-block;
+    vertical-align: top;
+    width: 534px;
+    height: 120px;
+}
+
+.ht3 {
+    display: inline-block;
+    width: 534px;
+    height: 336px;
+    margin-right: 173px;
+}
+
+.ht4 {
+    display: inline-block;
+    width: 534px;
+    height: 336px;
+}
+
+.attractions {
+    padding-top: 110px;
+    margin-bottom: 110px;
+}
+
+.attractions h2 {
+    font-size: 36px;
+    margin-bottom: 58px;
+    text-align: center;
+}
+
+.attractions img {
+    margin-right: 42px;
+    margin-bottom: 22px;
+}
+
+.attractions h3 {
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.at1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 374px;
+    height: 210px;
+    margin-right: 54px;
+}
+
+.at2{
+    display: inline-block;
+    vertical-align: top;
+    width: 348px;
+    height: 144px;
+    margin-right: 54px;
+}
+
+.at3{
+    display: inline-block;
+    vertical-align: top;
+    width: 374px;
+    height: 230px;
+}
+
+.symbols-map hr {
+	border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 32px;	
+}
+
+.symbols-map h2 {
+    display: inline-block;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.symbols-map span {
+    margin-right: 470px;
+}
+
+.symbols-map img {
+    margin-right: 98px;
+    margin-bottom: 30px;
+}
+
+.symbols-map {
+    padding-bottom: 82px;
+}
+
+.st1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 534px;
+    height: 72px;
+    margin-right: 173px;
+}
+
+.st2 {
+    display: inline-block;
+    vertical-align: top;
+    width: 534px;
+    height: 120px;
+}
+
+.news {
+    background: rgb(186, 198, 228);
+    padding-bottom: 67px;
+}
+.news h2 {
+    padding-top: 37px;
+    color: white;
+    font-size: 36px;
+    margin-bottom: 47px;
+    text-align: center;
+}
+
+.news-blocks {
+    display: flex;
+    gap: 60px;
+}
+
+.nt1 {
+    color:white;
+    font-weight: 700;
+    position: absolute;
+    width: 261px;
+    height: 48px;
+    left: 136px;
+    top: 3920px;
+}
+
+.nt2 {
+    color:white;
+    font-weight: 700;
+    position: absolute;
+    width: 213px;
+    height: 72px;
+    left: 608px;
+    top: 3900px;
+}
+
+.nt3 {
+    color:white;
+    font-weight: 700;
+    position: absolute;
+    width: 261px;
+    height: 96px;
+    left: 1078px;
+    top: 3876px;
+}
+
+.today {
+    padding-top: 107px;
+}
+
+.today hr {
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 14px;	
+}
+
+.today h2 {
+    font-size: 36px;
+    margin-bottom: 47px;
+}
+
+.today img {
+    margin-bottom: 77px;
+}
+
+.bott {
+    padding-bottom: 25px;
+}
+
+.bott p {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.bott img {
+    margin-right: 11px;
+}
+
+.bott a {
+    margin-left: 7px;
+}
